@@ -6,9 +6,9 @@ function Nav() {
   const location = useLocation();
 
   return (
-      <div className="header">
+      <div className="header" role="navigation">
       <h1 className="name">Lindsay Field</h1>
-        <ul className="nav justify-content-end">
+        <ul className="nav navbar-expand-md justify-content-end">
       <li className="nav-item">
         <Link to="/" className={location.pathname === "/" || "/about" ? "nav-link active" : "nav-link"}>
           About
@@ -31,7 +31,6 @@ function Nav() {
         </Link>
       </li>
     </ul>
-    <hr></hr>
 </div>
   );
 }
