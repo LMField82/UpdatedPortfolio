@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "assets/images/Unique Eats.png",
+        "image": "images/Unique Eats.png",
         "alt": "Unique Eats",
         "title": "Unique Eats",
         "text": "Discover a new international cuisine near you.",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "assets/images/your next binge.png",
+        "image": "images/your next binge.png",
         "alt": "Your Next Binge",
         "title": "Your Next Binge",
         "text": "Leave reviews for your favorite books & movies",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "image": "assets/images/Day Planner.png",
+        "image": "images/Day Planner.png",
         "alt": "Workday Planner",
         "title": "Workday Planner",
         "text": "Plan your workday from 9am to 5pm.",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "image": "assets/images/burgerApp.png",
+        "image": "images/burgerApp.png",
         "alt": "Eat a Burger",
         "title": "Eat a Burger",
         "text": "Create and eat your burgers.",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "image": "assets/images/TeamGenerator.gif",
+        "image": "images/TeamGenerator.gif",
         "alt": "Team Generator",
         "title": "Team Generator",
         "text": "Create your team of managers, engineers, and interns.",

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+
 .App {
   text-align: center;
 }
@@ -38,10 +41,8 @@
 }
 
 .header {
-  background-image: linear-gradient(to right, lightseagreen, lavender);
   padding-top: 8px;
   padding-bottom: 8px;
-  border-bottom: 2px solid #495057;
   margin-bottom: 40px;
 }
 .name {
@@ -65,10 +66,10 @@ body {
 }
 
 .footer {
-  background-image: linear-gradient(to right, lavender, lightseagreen);
+  background-color: #495057;
   padding: 15px;
-  color: #495057;
-  border-top: 2px solid #495057;
+  color: lavender;
+  
 }
 
 li {
@@ -131,6 +132,6 @@ li {
 
 .footer-icons {
   margin-left: 16%;
-  
+  height: 45px;
 }
 

@@ -1,8 +1,9 @@
-import React, { Component } from 'react';
-import "./Portfolio";
+import React from 'react';
+import Portfolio from "./Portfolio";
+import './App.css';
 
 
-  const App = () => <Portfolio />;
+  const App = () => {<Portfolio />}
 
 
 export default App;
