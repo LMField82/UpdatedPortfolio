@@ -2,7 +2,6 @@
     {
         "id": 1,
         "image": "images/Unique Eats.png",
-        "alt": "Unique Eats",
         "title": "Unique Eats",
         "text": "Discover a new international cuisine near you.",
         "btnText": "Check It Out",
@@ -11,7 +10,6 @@
     {
         "id": 2,
         "image": "images/your next binge.png",
-        "alt": "Your Next Binge",
         "title": "Your Next Binge",
         "text": "Leave reviews for your favorite books & movies",
         "btnText": "Check It Out",
@@ -20,7 +18,6 @@
     {
         "id": 3,
         "image": "images/Day Planner.png",
-        "alt": "Workday Planner",
         "title": "Workday Planner",
         "text": "Plan your workday from 9am to 5pm.",
         "btnText": "Check It Out",
@@ -29,7 +26,6 @@
     {
         "id": 4,
         "image": "images/burgerApp.png",
-        "alt": "Eat a Burger",
         "title": "Eat a Burger",
         "text": "Create and eat your burgers.",
         "btnText": "Check It Out",
@@ -38,7 +34,6 @@
     {
         "id": 5,
         "image": "images/TeamGenerator.gif",
-        "alt": "Team Generator",
         "title": "Team Generator",
         "text": "Create your team of managers, engineers, and interns.",
         "btnText": "Check It Out",
@@ -47,7 +42,6 @@
     {
         "id": 6,
         "image": "images/NoteTakerApp.png",
-        "alt": "Note Taker",
         "title": "Note Taker",
         "text": "Write, save, and delete notes in your browser.",
         "btnText": "Check It Out",
