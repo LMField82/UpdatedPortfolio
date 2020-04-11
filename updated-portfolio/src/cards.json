@@ -1,44 +1,56 @@
 [
     {
         "id": 1,
-        "image": "",
-        "title": "",
-        "text": "",
-        "btnText": ""
+        "image": "assets/images/Unique Eats.png",
+        "alt": "Unique Eats",
+        "title": "Unique Eats",
+        "text": "Discover a new international cuisine near you.",
+        "btnText": "Check It Out",
+        "link": "https://lmfield82.github.io/UniqueEats/"
     },
     {
         "id": 2,
-        "image": "",
-        "title": "",
-        "text": "",
-        "btnText": ""
+        "image": "assets/images/your next binge.png",
+        "alt": "Your Next Binge",
+        "title": "Your Next Binge",
+        "text": "Leave reviews for your favorite books & movies",
+        "btnText": "Check It Out",
+        "link": "https://hidden-beyond-22000.herokuapp.com/"
     },
     {
         "id": 3,
-        "image": "",
-        "title": "",
-        "text": "",
-        "btnText": ""
+        "image": "assets/images/Day Planner.png",
+        "alt": "Workday Planner",
+        "title": "Workday Planner",
+        "text": "Plan your workday from 9am to 5pm.",
+        "btnText": "Check It Out",
+        "link": "https://lmfield82.github.io/DayPlannerHW5/"
     },
     {
         "id": 4,
-        "image": "",
-        "title": "",
-        "text": "",
-        "btnText": ""
+        "image": "assets/images/burgerApp.png",
+        "alt": "Eat a Burger",
+        "title": "Eat a Burger",
+        "text": "Create and eat your burgers.",
+        "btnText": "Check It Out",
+        "link": ""
     },
     {
         "id": 5,
-        "image": "",
-        "title": "",
-        "text": "",
-        "btnText": ""
+        "image": "assets/images/TeamGenerator.gif",
+        "alt": "Team Generator",
+        "title": "Team Generator",
+        "text": "Create your team of managers, engineers, and interns.",
+        "btnText": "Check It Out",
+        "link": "https://github.com/LMField82/TeamGenerator"
     },
     {
         "id": 6,
-        "image": "",
-        "title": "",
-        "text": "",
-        "btnText": ""
+        "image": "images/NoteTakerApp.png",
+        "alt": "Note Taker",
+        "title": "Note Taker",
+        "text": "Write, save, and delete notes in your browser.",
+        "btnText": "Check It Out",
+        "link": "https://whispering-plateau-75223.herokuapp.com/"
     }
 ]
