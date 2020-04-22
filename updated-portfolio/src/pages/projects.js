@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import Card from "../components/Card";
+import ProjectCard from "../components/ProjectCard";
 import cards from "../cards.json";
+// import "../styles/projects.css";
  
 const handleClick = () => {
 
@@ -16,7 +17,7 @@ render()  {
     return (
         <div>
             {this.state.cards.map(cards => (
-            <Card 
+            <ProjectCard 
                 id={cards.id}
                 image={cards.image}
                 title={cards.title}
