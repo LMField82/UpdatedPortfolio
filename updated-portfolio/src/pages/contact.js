@@ -18,7 +18,7 @@ const Contact = () => {
                     <div className="card-body">
                         <img src="images/Lindsay.jpeg" className="card-img-top profile" alt="Lindsay Field" />
                         <h4 className="card-title card-title-front">Contact Me</h4>
-                        <p className="card-text">Email: meneslindsay@hotmail.com 
+                        <p className="card-text">Email: meneslindsay@hotmail.com <br></br>
                         Location: Denver, CO</p>
                         {/* <Mailto email="meneslindsay@hotmail.com" obfuscate={true}>
                             Email me!

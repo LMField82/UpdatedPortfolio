@@ -15,7 +15,7 @@ function ProjectCard(props) {
             <div className="card-body">
                 <h4 className="card-title">{props.title}</h4>
                 <p className="card-text">{props.text}</p>
-                <button href={props.link}>{props.btnText}</button>
+                <a id="proj-links" target="blank" href={props.link}>{props.btnText}</a>
             </div>
          </div>      
             

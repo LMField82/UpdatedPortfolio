@@ -3,8 +3,9 @@ import ProjectCard from "../components/ProjectCard";
 import cards from "../cards.json";
 // import "../styles/projects.css";
  
-const handleClick = () => {
-
+const handleClick = (event) => {
+    event.preventDefault();
+    
  }
 
     class Projects extends Component {

@@ -16,18 +16,6 @@ class Portfolio extends Component {
       this.setState({ currentPage: page });
     };
   
-    // renderPage = () => {
-    //     if (this.state.currentPage === "About") {
-    //     return <About />;
-    //   } else if (this.state.currentPage === "Projects") {
-    //     return <Projects />;
-    //   } else if (this.state.currentPage === "Contact") {
-    //     return <Contact />;
-    //   } else {
-    //       return <About />;
-    //   }
-    // };
-  
     render() {
       return (
 
@@ -43,7 +31,7 @@ class Portfolio extends Component {
             <Route exact path = "/contact" component={Contact} />
            
           </Switch>
-          {/* {this.renderPage()} */}
+         
           <Footer />
         </div>
          </Router> 
