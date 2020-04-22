@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 function Nav() {
   // This allows the component to check the route any time the user uses a link to navigate.

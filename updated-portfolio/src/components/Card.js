@@ -3,7 +3,7 @@ import React from 'react';
 function Card(props) {
   return (
     <div className="card-container">
-        <div className="card mb-3">
+        <div className="card">
             <div>
                     <img src={props.image} className="card-img-top" alt={props.title} />
                

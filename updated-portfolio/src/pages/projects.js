@@ -12,7 +12,7 @@ const handleClick = () => {
     };
 
 render()  {
-    // for (var i = 0; i < 5; i++) {
+   
     return (
         <div>
             {this.state.cards.map(cards => (
@@ -27,7 +27,7 @@ render()  {
             ))}
         </div>
       )
-    // }
+  
 }
 };
 

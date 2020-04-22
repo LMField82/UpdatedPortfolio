@@ -8,7 +8,20 @@
     margin-top: 10px;
     border: 1px solid #495057;
   }
+
+  .latest {
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
   
+ .card-body {
+  display: block;
+  text-align: center;
+ }
+
   .card-container {
     margin: 0 auto;
     position: relative;
