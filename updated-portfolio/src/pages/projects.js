@@ -15,8 +15,9 @@ const handleClick = () => {
 render()  {
    
     return (
-        <div>
+        <div className="row">
             {this.state.cards.map(cards => (
+                
             <ProjectCard 
                 id={cards.id}
                 image={cards.image}

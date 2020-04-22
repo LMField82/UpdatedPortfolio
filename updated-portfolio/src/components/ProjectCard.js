@@ -1,10 +1,11 @@
 import React from 'react';
 import "../styles/projects.css";
-// import { Container, Row, Col } from "./Layout"
+import { Container, Row, Col } from "./Layout"
 
 function ProjectCard(props) {
   return (
-      
+    
+        <div className="col-sm-4" >
     <div id="contForCards">
         <div className="card">
             
@@ -16,11 +17,12 @@ function ProjectCard(props) {
                 <p className="card-text">{props.text}</p>
                 <button href={props.link}>{props.btnText}</button>
             </div>
-               
+         </div>      
             
         </div>
-     </div>
-    
+       </div>
+     
+   
   );
 }
 
