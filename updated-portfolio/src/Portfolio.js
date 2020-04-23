@@ -31,7 +31,7 @@ class Portfolio extends Component {
             <Route exact path = "/contact" component={Contact} />
            
           </Switch>
-         
+              <About />
           <Footer />
         </div>
          </Router> 
