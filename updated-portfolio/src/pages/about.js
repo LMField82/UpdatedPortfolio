@@ -10,7 +10,6 @@ const About = () => {
     }
 
     return (
-        <div></div>
         <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
             
             <div className="card-container">
