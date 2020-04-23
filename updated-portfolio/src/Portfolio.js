@@ -26,9 +26,9 @@ class Portfolio extends Component {
             handlePageChange={this.handlePageChange}
           />
           <Switch>
-            <Route exact path = "/about" component={About} />
-            <Route exact path = "/projects" component={Projects} />
-            <Route exact path = "/contact" component={Contact} />
+            <Route exact path = "/UpdatedPortfolio/about" component={About} />
+            <Route exact path = "/UpdatedPortfolio/projects" component={Projects} />
+            <Route exact path = "/UpdatedPortfolio/contact" component={Contact} />
            
           </Switch>
               <About />
