@@ -1,7 +1,15 @@
 [
     {
+        "id": 0,
+        "image": "images/Quarantivities.png",
+        "title": "Quarantivities",
+        "text": "Activities to do while you are stuck at home.",
+        "btnText": "Check It Out",
+        "link": "https://rocky-inlet-27187.herokuapp.com/"
+    },
+    {
         "id": 1,
-        "image": "images/Unique Eats.png",
+        "image": "images/UniqueEats.png",
         "title": "Unique Eats",
         "text": "Discover a new international cuisine near you.",
         "btnText": "Check It Out",
@@ -9,7 +17,7 @@
     },
     {
         "id": 2,
-        "image": "images/your next binge.png",
+        "image": "images/YourNextBinge.png",
         "title": "Your Next Binge",
         "text": "Leave reviews for your favorite books & movies",
         "btnText": "Check It Out",
@@ -17,22 +25,14 @@
     },
     {
         "id": 3,
-        "image": "images/Day Planner.png",
+        "image": "images/WorkDayPlanner.png",
         "title": "Workday Planner",
-        "text": "Plan your workday from 9am to 5pm.",
+        "text": "Use this planner to schedule out your 9am - 5pm workday.",
         "btnText": "Check It Out",
         "link": "https://lmfield82.github.io/DayPlannerHW5/"
     },
     {
         "id": 4,
-        "image": "images/burgerApp.png",
-        "title": "Eat a Burger",
-        "text": "Create and eat your burgers.",
-        "btnText": "Check It Out",
-        "link": "https://github.com/LMField82/burger"
-    },
-    {
-        "id": 5,
         "image": "images/TeamGenerator.gif",
         "title": "Team Generator",
         "text": "Create your team of managers, engineers, and interns.",
@@ -40,8 +40,8 @@
         "link": "https://github.com/LMField82/TeamGenerator"
     },
     {
-        "id": 6,
-        "image": "images/NoteTakerApp.png",
+        "id": 5,
+        "image": "images/ExpressNoteTaker.png",
         "title": "Note Taker",
         "text": "Write, save, and delete notes in your browser.",
         "btnText": "Check It Out",

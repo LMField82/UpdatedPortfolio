@@ -16,6 +16,18 @@ class Portfolio extends Component {
       this.setState({ currentPage: page });
     };
   
+    // renderPage = () => {
+    //   if (this.state.currentPage === "About") {
+    //     return <About />;
+    //   } else if (this.state.currentPage === "Projects") {
+    //     return <Projects />;
+    //   } else if (this.state.currentPage === "Contact") {
+    //     return <Contact />;
+    //   } else {
+    //     return <About />;
+    //   }
+    // };
+
     render() {
       return (
 
@@ -26,14 +38,16 @@ class Portfolio extends Component {
             handlePageChange={this.handlePageChange}
           />
           <Switch>
-            <Route exact path = "/UpdatedPortfolio/about" component={About} />
-            <Route exact path = "/UpdatedPortfolio/projects" component={Projects} />
-            <Route exact path = "/UpdatedPortfolio/contact" component={Contact} />
+            <Route exact path = "/about" component={About} />
+            <Route exact path = "/projects" component={Projects} />
+            <Route exact path = "/contact" component={Contact} />
            
           </Switch>
-              <About />
+              
+          {/* {this.renderPage()} */}
+
           <Footer />
-        </div>
+          </div>
          </Router> 
       );
     }
